@@ -1,0 +1,18 @@
+export const formConfig = {
+  title: '云小店地址发布页',
+  notice: '',
+  label1: '备用地址1',
+  url1: '',
+  label2: '备用地址2',
+  url2: '',
+  label3: '备用地址3',
+  url3: '',
+  label4: '备用地址4',
+  url4: '',
+  label5: '备用地址5',
+  url5: '',
+  label6: '备用地址6',
+  url6: '',
+  label7: '本站APP下载地址',
+  url7: '',
+}
